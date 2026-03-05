@@ -89,20 +89,20 @@ Create a stylized text/graphic poster (HTML/SVG) of a superhero who is a very un
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:**  Create a stylized text/graphic poster (HTML/SVG) of a superhero who is a very unconventional "hero"— He’s famous for being the only character who knows he’s in a comic book or a movie, which leads to his signature Fourth Wall breaks and constant meta-commentary. with the core emotions being excitement and humor? The essential element is wade wilson, and avoid showing the bad guys. The Color Palette should have red as the dominant color with black as the Accent color. This should be a medium shot. The title should be diepool and the poster should look realistic. This iconic super suit is a masterclass in tactical utility and brand management, characterized by a vibrant crimson red base designed to mask the inevitable bloodstains from his frequent injuries. The suit is constructed from a rugged, textured blend of reinforced nylon and leather, featuring matte black accents that break up the silhouette and provide a gritty, mercenary aesthetic. His signature cowl is uniquely expressive, with large black patches surrounding white lenses that mechanically shift to convey his chaotic range of emotions. To support his "one-man army" lifestyle, the suit is heavily integrated with combat gear, including a "V" shaped dual-scabbard for his katanas on the back, drop-leg holsters for his high-caliber pistols, and a thick utility belt anchored by a circular logo buckle. Unlike the pristine spandex of traditional heroes, Deadpool’s suit is almost always depicted as battle-worn, covered in soot, scuffs, and bullet holes that reflect his reckless and nearly indestructible nature.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  The suit was more detailed
+- **What didn't work:**  There was too much red
+- **What I'll change for next attempt:**  Change some of the colors
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:**  Create a stylized text/graphic poster (HTML/SVG) of a superhero who is a very unconventional "hero"— He’s famous for being the only character who knows he’s in a comic book or a movie, which leads to his signature Fourth Wall breaks and constant meta-commentary. with the core emotions being excitement and humor? The essential element is wade wilson, and avoid showing the bad guys. The Color Palette should have red as the dominant color with black as the Accent color. This should be a medium shot. The title should be diepool and the poster should look realistic. This iconic super suit is a masterclass in tactical utility and brand management, characterized by a vibrant crimson red base designed to mask the inevitable bloodstains from his frequent injuries. The suit is constructed from a rugged, textured blend of reinforced nylon and leather, featuring matte black accents that break up the silhouette and provide a gritty, mercenary aesthetic. His signature cowl is uniquely expressive, with large black patches surrounding white lenses that mechanically shift to convey his chaotic range of emotions. To support his "one-man army" lifestyle, the suit is heavily integrated with combat gear, including a "V" shaped dual-scabbard for his katanas on the back, drop-leg holsters for his high-caliber pistols, and a thick utility belt anchored by a circular logo buckle. Unlike the pristine spandex of traditional heroes, Deadpool’s suit is almost always depicted as battle-worn, covered in soot, scuffs, and bullet holes that reflect his reckless and nearly indestructible nature. Finally add more black and white along with the red.
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:**  The poster colors were better
+- **What didn't work:**  The focal d]point and medium shot was off
 
 **Final AI Image Selected:** (Which attempt? Why?)  
-
+The Final AI image I choose was the third attempt becasue its unique
 ---
 
 ## Step 4: Photoshop Modifications
