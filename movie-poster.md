@@ -58,7 +58,7 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 - [ ] Object/symbol centered  
 - [ ] Character collage  
 
-- **Focal point description:**  
+- **Focal point description:**  an image of deadpool
 
 ---
 
@@ -68,18 +68,18 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:**  Can you please generate a movie poster of a superhero who is a very unconventional "hero"—though he’d likely prefer the term "Merc with a Mouth." He’s famous for being the only character who knows he’s in a comic book or a movie, which leads to his signature Fourth Wall breaks and constant meta-commentary. with the core emotions being excitement and humor? The essential element is Wade Wilson, and avoid showing the bad guys. The Color Palette should have red as the dominant color with black as the Accent color. This should be a medium shot.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  The red was very vibrant
+- **What didn't work:**  There were copyright issues so I couldn't have the name deadpool
+- **What I'll change for next attempt:**  I will be more specific graphically
 
 **Attempt 2:**  
 - **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+Create a stylized text/graphic poster (HTML/SVG) of a superhero who is a very unconventional "hero"— He’s famous for being the only character who knows he’s in a comic book or a movie, which leads to his signature Fourth Wall breaks and constant meta-commentary. with the core emotions being excitement and humor? The essential element is wade wilson, and avoid showing the bad guys. The Color Palette should have red as the dominant color with black as the Accent color. This should be a medium shot. The title should be diepool and the poster should look realistic
+- **What worked:**  It got the title correct
+- **What didn't work:**  The poster is not realistic
+- **What I'll change for next attempt:**  Be more descriptive about the suit
 
 ---
 
